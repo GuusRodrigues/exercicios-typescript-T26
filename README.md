@@ -1,5 +1,5 @@
 
-# Exercícios em javascript
+## Exercícios em javascript
 
 
 Lista de exercícios em Javascript utilizando Jest.

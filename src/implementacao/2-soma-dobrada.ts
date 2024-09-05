@@ -9,10 +9,11 @@ function somaDobrada(umValor: number, outroValor: number) {
         somaDobrada: -1
     }
     else return{
-        somaDobrada: (umValor + outroValor) 
+        somaDobrada: (umValor + outroValor)
     }
     
 }
 
 module.exports = somaDobrada;
 
+//

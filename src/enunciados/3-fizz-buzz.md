@@ -11,8 +11,8 @@ O problema:
 - Se o número não for divisível por nenhum dos dois, o método retorna o próprio número em formato de String
 
 __Dicas:__
-
-Pesquise sobre operadores artimeticos do JS, como por exemplo operador de módulo `%`.
+operadores artimeticos do JS
+Pesquise sobre , como por exemplo operador de módulo `%`.
 
 Para converter um número inteiro para String, pode-se utilizar os métodos `String()`.
 

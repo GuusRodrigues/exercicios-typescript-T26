@@ -26,6 +26,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
+    "exercicios-javascript": "file:",
     "jest-html-reporter": "^3.4.1"
   }
 }

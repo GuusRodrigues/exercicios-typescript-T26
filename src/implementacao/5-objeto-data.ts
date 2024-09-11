@@ -1,5 +1,4 @@
 function criaObjeto(data: string) {
-
     // Divide a string da data no formato "dd/mm/aaaa"
     const [dd, mm, aaaa] = data.split('/');
 
@@ -7,4 +6,5 @@ function criaObjeto(data: string) {
     return { dia: dd, mes: mm, ano: aaaa };
 
 }
+
 module.exports = criaObjeto;
